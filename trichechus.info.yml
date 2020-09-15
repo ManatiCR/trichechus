@@ -16,7 +16,6 @@ dependencies:
   - breakpoint
   - ckeditor
   - color
-  - components
   - config
   - config_split
   - contact
@@ -32,7 +31,6 @@ dependencies:
   - dropzonejs
   - dropzonejs_eb_widget
   - editor
-  - emulsify_twig
   - entity_embed
   - entity_reference
   - environment_indicator
